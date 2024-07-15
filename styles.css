@@ -74,7 +74,7 @@ body{
     position: relative; /* Position relative to allow z-index to work */
     z-index: 1; /* Ensure content appears above the background */
     padding: 20px; /* Add padding to the content */
-    color: #2600ff; /* Set text color to white */
+    color: #babd25; /* Set text color */
     text-align: center; /* Center align text */
 }
 
