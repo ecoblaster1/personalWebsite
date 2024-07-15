@@ -312,18 +312,9 @@ body{
     cursor: auto;
 }
 
-.mindfulCares{
+.zuko{
     top: 1050px;
     left: 1360px;
-    z-index: 2;
-    max-width: 400px;
-    max-height: 400px;
-    cursor: auto;
-}
-
-.zuko{
-    top: 1330px;
-    left: 1390px;
     z-index: 1;
     max-width: 300px;
     max-height: 300px;
