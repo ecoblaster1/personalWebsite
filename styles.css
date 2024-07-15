@@ -13,17 +13,15 @@ body{
     position: absolute;
     pointer-events: none;
     z-index: -1;
-    width: 5px;
+    width: 30px;
     height: auto;
-    left: 30px;
-    top: 50px;
+    left: 0px;
+    top: 0px;
 }
 
 .cursor-gif {
-    width: 100px;
-    height: auto;
-    left: 100px;
-    top: 100px;
+    width: 100%;
+    height: 100%;
 }
 
 /* Style for the mobile billboard container */
