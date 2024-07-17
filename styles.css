@@ -319,6 +319,15 @@ body{
     cursor: auto;
 }
 
+.cello{
+    top: 1100px;
+    left: 1100px;
+    z-index: 2;
+    max-width: 300px;
+    max-height: 300px;
+    cursor: auto;
+}
+
 /* Styling the audio player */
 #audio-player {
     position: absolute;
